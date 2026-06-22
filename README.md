@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d333b&height=220&section=header&text=Muhammad%20Ahmad%20Abbas&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20CS%20@%20FAST-NUCES&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Multi-Agent+AI+Systems+with+LangGraph+%F0%9F%A7%A0;Architecting+Production-Grade+RAG+Pipelines+%F0%9F%94%A7;3rd+Place+%E2%80%94+National+AI+Hackathon+(atomcamp)+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+Multi-Agent+AI+Systems+with+LangGraph+%F0%9F%A7%A0;Architecting+Production-Grade+RAG+Pipelines+%F0%9F%94%A7;3rd+Place+%E2%80%94+National+AI+Hackathon+(atomcamp)+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br>
 
@@ -32,8 +32,6 @@ focus_areas:
   - Retrieval-Augmented Generation (RAG) Pipelines
   - Production API Architecture (FastAPI, Pydantic v2)
   - Workflow Automation (n8n, Google Workspace APIs)
-currently_building: "Production-grade AI agents that reason, research, and explain"
-fun_fact: "I can architect a 7-node AI pipeline and direct an Instagram reel — in the same week"
 ```
 
 I'm a Computer Science student at **FAST-NUCES Islamabad** who lives at the intersection of **AI engineering** and **software architecture**. I don't just use LLMs — I orchestrate them into stateful, multi-agent pipelines with honest confidence scoring, graceful degradation, and real-time streaming. My code ships with **GoF design patterns**, **security-first architecture**, and **zero-key fallback modes** so nothing breaks in demo or production.
