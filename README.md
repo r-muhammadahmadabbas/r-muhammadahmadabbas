@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d333b&height=220&section=header&text=Muhammad%20Ahmad%20Abbas&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20CS%20@%20FAST-NUCES&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d333b&height=220&section=header&text=Muhammad%20Ahmad%20Abbas&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20CS%20@%20FAST-NUCES&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Multi-Agent+AI+Systems+with+LangGraph+%F0%9F%A7%A0;Architecting+Production-Grade+RAG+Pipelines+%F0%9F%94%A7;3rd+Place+%E2%80%94+National+AI+Hackathon+(atomcamp)+%F0%9F%8F%86" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-r.muhammadahmadabbas-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.muhammadahmadabbas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadahmadabbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadahmadabbas)
 [![GitHub](https://img.shields.io/badge/GitHub-r--muhammadahmadabbas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-muhammadahmadabbas)
-[![Phone](https://img.shields.io/badge/Phone-+92--333--5886760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923335886760)
+
 
 </div>
 
